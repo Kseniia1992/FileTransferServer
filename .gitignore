@@ -1,6 +1,7 @@
 ClientFiles/
 ServerFiles/
 out/
+.idea/
 *.iml
 *.DS_Store
 *.localized
