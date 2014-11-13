@@ -1,0 +1,6 @@
+ClientFiles/
+ServerFiles/
+out/
+*.iml
+*.DS_Store
+*.localized
